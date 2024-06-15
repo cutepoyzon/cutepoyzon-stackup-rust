@@ -1,0 +1,6 @@
+# Rust specific
+/target/
+**/*.rs.bk
+
+# Standard Rust stuff
+Cargo.lock
